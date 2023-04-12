@@ -1,0 +1,30 @@
+{
+  "name": "aavatechnepal",
+  "version": "1.0.0",
+  "description": "aavatechnepal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "suniel1921"
+  },
+  "keywords": [
+    "aavatechnepal",
+    "virutual",
+    "learning",
+    "hub",
+    "it",
+    "services"
+  ],
+  "author": "Suniel Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
